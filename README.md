@@ -1,36 +1,39 @@
 # ✨ Kankan Mondal – UI/UX Designer & Developer
-##Hi there 👋 I'm Kankan Mondal, a passionate frontend developer and UI/UX designer currently pursuing my studies at Government College Of Engineering and Ceramic Technology. I love crafting intuitive digital experiences with clean interfaces, modern tools, and creative energy.
+## Hi there 👋 I'm Kankan Mondal, a passionate frontend developer and UI/UX designer currently pursuing my studies at Government College Of Engineering and Ceramic Technology. I love crafting intuitive digital experiences with clean interfaces, modern tools, and creative energy.
 
-🔧 Tools & Technologies
-Design: Figma, Adobe XD
+- 🔧 Tools & Technologies
+Design: Figma, Canva
 
 - Frontend: 
 HTML, CSS, JavaScript, Tailwind CSS
 
--Version Control: Git, GitHub
+- Version Control:
+ Git, GitHub
 
--Other: Vite, Canva, Figma
+- Other:
+  Vite
 
-##💼 Projects
+## 💼 Projects
 Here are a few projects I've worked on:
 
--🎨 Grocery App UI (Figma) – Designed and prototyped a grocery shopping app with clean UX and intuitive layout.
+- 🎨 Grocery App UI (Figma) – Designed and prototyped a grocery shopping app with clean UX and intuitive layout.
 
--📺 CineGalaxy – Movie Streaming UI – A vibrant web interface for movie streaming with interactive elements and featured content.
+- 📺 CineGalaxy – Movie Streaming UI – A vibrant web interface for movie streaming with interactive elements and featured content.
 
--⚙️ Organ Matching Platform – Developed the frontend of a real-time AI-powered organ matching system. 🥈 2nd place @ GCECT-Bytemonk Hackathon 2025.
-
--📫 Connect with Me
--💼 LinkedIn: www.linkedin.com/in/kankan-mondal
-
--💻 Portfolio Website
-
--✉️ Email: kankanmondal22@gmail.com
+- ⚙️ Organ Matching Platform – Developed the frontend of a real-time AI-powered organ matching system. 🥈 2nd place @ GCECT-Bytemonk Hackathon 2025.
 
 
--🚀 Goals
-Master advanced UI/UX Design ans Web development
-Build a full-stack application from scratch
+###💼 LinkedIn: 
+www.linkedin.com/in/kankan-mondal
+
+### 💻 Portfolio Website
+
+- ✉️ Email: kankanmondal22@gmail.com
+
+
+## 🚀 Goals
+- Master advanced UI/UX Design ans Web development
+- Build a full-stack application from scratch
 
 
 
