@@ -4,7 +4,8 @@
 🔧 Tools & Technologies
 Design: Figma, Adobe XD
 
--Frontend: HTML, CSS, JavaScript, Tailwind CSS
+- Frontend: 
+HTML, CSS, JavaScript, Tailwind CSS
 
 -Version Control: Git, GitHub
 
