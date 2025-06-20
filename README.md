@@ -23,7 +23,7 @@ Here are a few projects I've worked on:
 - ⚙️ Organ Matching Platform – Developed the frontend of a real-time AI-powered organ matching system. 🥈 2nd place @ GCECT-Bytemonk Hackathon 2025.
 
 
-###💼 LinkedIn: 
+### 💼 LinkedIn: 
 www.linkedin.com/in/kankan-mondal
 
 ### 💻 Portfolio Website
